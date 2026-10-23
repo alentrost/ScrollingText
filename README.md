@@ -24,7 +24,6 @@ An Android application demonstrating how to display long, scrollable text conten
 - **[`MainActivity.java`](app/src/main/java/com/example/scrollingtext/MainActivity.java)**: Entry point activity handling Edge-to-Edge window insets and button click events.
 - **[`activity_main.xml`](app/src/main/res/layout/activity_main.xml)**: Layout containing the Toolbar, pinned Header, ScrollView, Subheadings, Article Body, and Comment Button.
 - **[`strings.xml`](app/src/main/res/values/strings.xml)**: Stores the article title, subheading, HTML-formatted article body, and Toast messages.
-- **[`colors.xml`](app/src/main/res/values/colors.xml)**: Defines color palette for the toolbar header, subheadings, links, and body text.
 
 ## Getting Started
 
